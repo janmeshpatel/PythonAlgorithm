@@ -1,3 +1,3 @@
-# PythonAlgorithm
-Python Algrithm
+# Python Algorithm
+Python Algorithm
 - Stack Algorithm
