@@ -1,3 +1,5 @@
+#Stack is based on Last In First Out(LIFO)
+
 def push(num, n):
     num.append(n)
     return num
